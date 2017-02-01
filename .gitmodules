@@ -1,0 +1,4 @@
+[submodule "cocos2d"]
+	path = cocos2d
+	url = https://github.com/newnon/cocos2d-x
+	branch = v3.13.1
