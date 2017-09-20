@@ -13,10 +13,6 @@
 	<integer>45</integer>
 	<key>centeredOrigin</key>
 	<false/>
-	<key>currentResolution</key>
-	<integer>0</integer>
-	<key>currentSequenceId</key>
-	<integer>0</integer>
 	<key>docDimensionsType</key>
 	<integer>0</integer>
 	<key>fileType</key>
@@ -178,32 +174,6 @@ Cocos2d-x!</string>
 						<string>IntegerLabeled</string>
 						<key>value</key>
 						<integer>1</integer>
-					</dict>
-					<dict>
-						<key>name</key>
-						<string>fontColor</string>
-						<key>type</key>
-						<string>Color4</string>
-						<key>value</key>
-						<array>
-							<real>1</real>
-							<real>1</real>
-							<real>1</real>
-							<real>1</real>
-						</array>
-					</dict>
-					<dict>
-						<key>name</key>
-						<string>outlineColor</string>
-						<key>type</key>
-						<string>Color4</string>
-						<key>value</key>
-						<array>
-							<real>0.0</real>
-							<real>0.0</real>
-							<real>0.0</real>
-							<real>0.0</real>
-						</array>
 					</dict>
 					<dict>
 						<key>name</key>
@@ -382,32 +352,6 @@ Cocos2d-x!</string>
 						<array>
 							<real>17</real>
 							<integer>2</integer>
-						</array>
-					</dict>
-					<dict>
-						<key>name</key>
-						<string>fontColor</string>
-						<key>type</key>
-						<string>Color4</string>
-						<key>value</key>
-						<array>
-							<real>1</real>
-							<real>1</real>
-							<real>1</real>
-							<real>1</real>
-						</array>
-					</dict>
-					<dict>
-						<key>name</key>
-						<string>outlineColor</string>
-						<key>type</key>
-						<string>Color4</string>
-						<key>value</key>
-						<array>
-							<real>0.0</real>
-							<real>0.0</real>
-							<real>0.0</real>
-							<real>0.0</real>
 						</array>
 					</dict>
 					<dict>
@@ -661,32 +605,6 @@ Cocos2d-x!</string>
 					</dict>
 					<dict>
 						<key>name</key>
-						<string>fontColor</string>
-						<key>type</key>
-						<string>Color4</string>
-						<key>value</key>
-						<array>
-							<real>1</real>
-							<real>1</real>
-							<real>1</real>
-							<real>1</real>
-						</array>
-					</dict>
-					<dict>
-						<key>name</key>
-						<string>outlineColor</string>
-						<key>type</key>
-						<string>Color4</string>
-						<key>value</key>
-						<array>
-							<real>0.0</real>
-							<real>0.0</real>
-							<real>0.0</real>
-							<real>0.0</real>
-						</array>
-					</dict>
-					<dict>
-						<key>name</key>
 						<string>outlineWidth</string>
 						<key>type</key>
 						<string>FloatScale</string>
@@ -858,6 +776,24 @@ Cocos2d-x!</string>
 			<key>width</key>
 			<integer>1280</integer>
 		</dict>
+		<dict>
+			<key>additionalScale</key>
+			<real>1.2199060916900635</real>
+			<key>centeredOrigin</key>
+			<false/>
+			<key>ext</key>
+			<string>tablethd phonehd</string>
+			<key>height</key>
+			<integer>1125</integer>
+			<key>mainScale</key>
+			<real>0.87890625</real>
+			<key>name</key>
+			<string>iPhone X Landscape</string>
+			<key>resourceScale</key>
+			<real>4</real>
+			<key>width</key>
+			<integer>2436</integer>
+		</dict>
 	</array>
 	<key>sceneScaleType</key>
 	<integer>0</integer>
@@ -900,9 +836,5 @@ Cocos2d-x!</string>
 			</dict>
 		</dict>
 	</array>
-	<key>stageBorder</key>
-	<integer>0</integer>
-	<key>stageColor</key>
-	<integer>0</integer>
 </dict>
 </plist>
