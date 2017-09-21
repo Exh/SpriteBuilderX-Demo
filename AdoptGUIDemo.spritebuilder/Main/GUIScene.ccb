@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>43</integer>
+	<integer>44</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>docDimensionsType</key>
@@ -72,9 +72,9 @@
 						<string>Color3</string>
 						<key>value</key>
 						<array>
-							<real>0.10203827917575836</real>
-							<real>0.40580576658248901</real>
-							<real>0.078606434166431427</real>
+							<real>0.88483524322509766</real>
+							<real>0.51229763031005859</real>
+							<real>0.44544360041618347</real>
 							<real>1</real>
 						</array>
 					</dict>
@@ -124,10 +124,111 @@
 								<string>Color3</string>
 								<key>value</key>
 								<array>
-									<real>0.99339306354522705</real>
-									<real>0.7031940221786499</real>
-									<real>0.86459553241729736</real>
+									<real>0.2270224392414093</real>
+									<real>0.49265176057815552</real>
+									<real>0.26303330063819885</real>
 									<real>1</real>
+								</array>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>UUID</key>
+						<integer>43</integer>
+						<key>baseClass</key>
+						<string>CCLabelTTF</string>
+						<key>children</key>
+						<array/>
+						<key>customClass</key>
+						<string></string>
+						<key>displayName</key>
+						<string>CCLabelTTF</string>
+						<key>memberVarAssignmentName</key>
+						<string></string>
+						<key>memberVarAssignmentType</key>
+						<integer>2</integer>
+						<key>properties</key>
+						<array>
+							<dict>
+								<key>name</key>
+								<string>position</string>
+								<key>type</key>
+								<string>Position</string>
+								<key>value</key>
+								<array>
+									<real>0.5</real>
+									<real>0.5</real>
+									<integer>0</integer>
+									<integer>2</integer>
+									<integer>2</integer>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>anchorPoint</string>
+								<key>type</key>
+								<string>Point</string>
+								<key>value</key>
+								<array>
+									<real>0.5</real>
+									<real>0.5</real>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>color</string>
+								<key>type</key>
+								<string>Color3</string>
+								<key>value</key>
+								<array>
+									<real>0.051527164876461029</real>
+									<real>0.20004671812057495</real>
+									<real>0.048073910176753998</real>
+									<real>1</real>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>string</string>
+								<key>type</key>
+								<string>Text</string>
+								<key>value</key>
+								<array>
+									<string>Safe Area</string>
+									<false/>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>fontSize</string>
+								<key>type</key>
+								<string>FloatScale</string>
+								<key>value</key>
+								<array>
+									<real>30</real>
+									<integer>2</integer>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>outlineWidth</string>
+								<key>type</key>
+								<string>FloatScale</string>
+								<key>value</key>
+								<array>
+									<real>0.0</real>
+									<integer>0</integer>
+								</array>
+							</dict>
+							<dict>
+								<key>name</key>
+								<string>shadowBlurRadius</string>
+								<key>type</key>
+								<string>FloatScale</string>
+								<key>value</key>
+								<array>
+									<real>0.0</real>
+									<integer>0</integer>
 								</array>
 							</dict>
 						</array>
@@ -170,9 +271,9 @@
 								<string>Color3</string>
 								<key>value</key>
 								<array>
-									<real>0.0</real>
-									<real>0.0</real>
-									<real>0.0</real>
+									<real>1</real>
+									<real>0.99997437000274658</real>
+									<real>0.99999129772186279</real>
 									<real>1</real>
 								</array>
 							</dict>
@@ -272,9 +373,9 @@
 								<string>Color3</string>
 								<key>value</key>
 								<array>
-									<real>0.0</real>
-									<real>0.0</real>
-									<real>0.0</real>
+									<real>1</real>
+									<real>0.99997437000274658</real>
+									<real>0.99999129772186279</real>
 									<real>1</real>
 								</array>
 							</dict>
@@ -373,9 +474,9 @@
 								<string>Color3</string>
 								<key>value</key>
 								<array>
-									<real>0.0</real>
-									<real>0.0</real>
-									<real>0.0</real>
+									<real>1</real>
+									<real>0.99997437000274658</real>
+									<real>0.99999129772186279</real>
 									<real>1</real>
 								</array>
 							</dict>
@@ -386,7 +487,7 @@
 								<string>Text</string>
 								<key>value</key>
 								<array>
-									<string>Bottom Right</string>
+									<string>Top Right</string>
 									<false/>
 								</array>
 							</dict>
@@ -474,9 +575,9 @@
 								<string>Color3</string>
 								<key>value</key>
 								<array>
-									<real>0.0</real>
-									<real>0.0</real>
-									<real>0.0</real>
+									<real>1</real>
+									<real>0.99997437000274658</real>
+									<real>0.99999129772186279</real>
 									<real>1</real>
 								</array>
 							</dict>
@@ -487,7 +588,7 @@
 								<string>Text</string>
 								<key>value</key>
 								<array>
-									<string>Bottom Right</string>
+									<string>Top Left</string>
 									<false/>
 								</array>
 							</dict>
@@ -609,6 +710,24 @@
 	<array>
 		<dict>
 			<key>additionalScale</key>
+			<real>1.2199060916900635</real>
+			<key>centeredOrigin</key>
+			<false/>
+			<key>ext</key>
+			<string>tablethd phonehd</string>
+			<key>height</key>
+			<integer>2436</integer>
+			<key>mainScale</key>
+			<real>0.87890625</real>
+			<key>name</key>
+			<string>iPhone X Portrait</string>
+			<key>resourceScale</key>
+			<real>4</real>
+			<key>width</key>
+			<integer>1125</integer>
+		</dict>
+		<dict>
+			<key>additionalScale</key>
 			<real>1</real>
 			<key>centeredOrigin</key>
 			<false/>
@@ -660,24 +779,6 @@
 			<real>4</real>
 			<key>width</key>
 			<integer>1080</integer>
-		</dict>
-		<dict>
-			<key>additionalScale</key>
-			<real>1.2199060916900635</real>
-			<key>centeredOrigin</key>
-			<false/>
-			<key>ext</key>
-			<string>tablethd phonehd</string>
-			<key>height</key>
-			<integer>2436</integer>
-			<key>mainScale</key>
-			<real>0.87890625</real>
-			<key>name</key>
-			<string>iPhone X Portrait</string>
-			<key>resourceScale</key>
-			<real>4</real>
-			<key>width</key>
-			<integer>1125</integer>
 		</dict>
 		<dict>
 			<key>additionalScale</key>
