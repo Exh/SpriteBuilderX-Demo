@@ -36,7 +36,7 @@ class CocosLogoSpriteLoader : public SpriteLoader {
             ret->autorelease();
             return ret;
         }
-        virtual Node *createNodeInstance(const Size &parentSize, float mainScale, float additionalScale, CCBXReaderOwner *owner, Node *rootNode, CCBXReaderOwner *rootOwner) const override {
+            virtual Node *createNodeInstance(const Size &parentSize, float mainScale, float additionalScale, CCBXReaderOwner *owner, Node *rootNode, CCBXReaderOwner *rootOwner, const cocos2d::ValueMap &customProperties) const override {
             return CocosLogo::create();
         }
         virtual void onNodeLoaded(Node *node) const override {
